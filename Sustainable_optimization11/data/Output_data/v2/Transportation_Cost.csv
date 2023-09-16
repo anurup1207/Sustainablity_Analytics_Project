@@ -1,0 +1,11 @@
+Source,Destination,4WD_PICK_UP,CARGO_PLANE,GOODS_RAIL,MIXED_RAIL,Total transportation cost
+Bangalore,Chennai,438.23999999999995,0.0,0.0,0.0,438.23999999999995
+Bangalore,Kolkata,0.0,0.0,0.0,17839.91,17839.91
+Bangalore,Mumbai,0.0,8422.8,0.0,0.0,8422.8
+Chennai,Bangalore,0.0,0.0,1214.44,6679.42,7893.860000000001
+Chennai,Delhi,0.0,0.0,7286.88,0.0,7286.88
+Chennai,Kolkata,0.0,0.0,11284.16,0.0,11284.16
+Chennai,Mumbai,0.0,0.0,4294.72,0.0,4294.72
+Delhi,Chennai,0.0,0.0,7286.88,0.0,7286.88
+Delhi,Kolkata,0.0,0.0,0.0,22464.420000000002,22464.420000000002
+Delhi,Mumbai,0.0,0.0,4761.12,0.0,4761.12

@@ -1,0 +1,500 @@
+﻿From,To,Quantity (MT),Time (hrs),Cost
+Mumbai ,Delhi ,3000,550,126000
+Mumbai ,Bengaluru,4000,550,126000
+Mumbai ,Hyderabad ,110,550,126000
+Mumbai ,Ahmadabad ,4000,550,126000
+Mumbai ,Surat ,50,550,126000
+Mumbai ,Kolkata ,50,550,126000
+Mumbai ,Chennai ,50,550,126000
+Mumbai ,Jaipur ,50,550,126000
+Mumbai ,Pune ,50,550,126000
+Mumbai ,Kanpur ,50,550,126000
+Mumbai ,Lucknow ,50,550,126000
+Mumbai ,Nagpur ,50,550,126000
+Mumbai ,Indore ,50,550,126000
+Mumbai ,Thane ,50,550,126000
+Mumbai ,Pimpri Chinchwad ,50,550,126000
+Mumbai ,Bhopal ,50,550,126000
+Mumbai ,Patna ,50,550,126000
+Mumbai ,Visakhapatnam,50,550,126000
+Mumbai ,Ludhiana ,50,550,126000
+Mumbai ,Vadodara ,50,550,126000
+Mumbai ,Agra ,50,550,126000
+Mumbai ,Nashik ,50,550,126000
+Mumbai ,Faridabad ,50,550,126000
+Mumbai ,Meerut ,50,550,126000
+Mumbai ,Rajkot ,50,550,126000
+Mumbai ,Vasai Virar City ,50,550,126000
+Mumbai ,Varanasi ,50,550,126000
+Mumbai ,Srinagar ,50,550,126000
+Mumbai ,Dhanbad ,50,550,126000
+Delhi ,Mumbai ,50,550,126000
+Delhi ,Bengaluru,50,550,126000
+Delhi ,Hyderabad ,50,550,126000
+Delhi ,Ahmadabad ,50,550,126000
+Delhi ,Surat ,50,550,126000
+Delhi ,Kolkata ,50,550,126000
+Delhi ,Chennai ,50,550,126000
+Delhi ,Jaipur ,50,550,126000
+Delhi ,Pune ,50,550,126000
+Delhi ,Kanpur ,50,550,126000
+Delhi ,Lucknow ,50,550,126000
+Delhi ,Nagpur ,50,550,126000
+Delhi ,Indore ,50,550,126000
+Delhi ,Thane ,50,550,126000
+Delhi ,Pimpri Chinchwad ,50,550,126000
+Delhi ,Bhopal ,50,550,126000
+Delhi ,Patna ,50,550,126000
+Delhi ,Visakhapatnam,50,550,126000
+Delhi ,Ludhiana ,50,550,126000
+Delhi ,Vadodara ,50,550,126000
+Delhi ,Agra ,50,550,126000
+Delhi ,Nashik ,50,550,126000
+Delhi ,Faridabad ,50,550,126000
+Delhi ,Meerut ,50,550,126000
+Delhi ,Rajkot ,50,550,126000
+Delhi ,Vasai Virar City ,50,550,126000
+Delhi ,Varanasi ,50,550,126000
+Delhi ,Srinagar ,50,550,126000
+Delhi ,Dhanbad ,50,550,126000
+Bengaluru,Mumbai ,50,550,126000
+Bengaluru,Delhi ,50,550,126000
+Bengaluru,Hyderabad ,50,550,126000
+Bengaluru,Ahmadabad ,50,550,126000
+Bengaluru,Surat ,50,550,126000
+Bengaluru,Kolkata ,50,550,126000
+Bengaluru,Chennai ,50,550,126000
+Bengaluru,Jaipur ,50,550,126000
+Bengaluru,Pune ,50,550,126000
+Bengaluru,Kanpur ,50,550,126000
+Bengaluru,Lucknow ,50,550,126000
+Bengaluru,Nagpur ,50,550,126000
+Bengaluru,Indore ,50,550,126000
+Bengaluru,Thane ,50,550,126000
+Bengaluru,Pimpri Chinchwad ,50,550,126000
+Bengaluru,Bhopal ,50,550,126000
+Bengaluru,Patna ,50,550,126000
+Bengaluru,Visakhapatnam,50,550,126000
+Bengaluru,Ludhiana ,50,550,126000
+Bengaluru,Vadodara ,50,550,126000
+Bengaluru,Agra ,50,550,126000
+Bengaluru,Nashik ,50,550,126000
+Bengaluru,Faridabad ,50,550,126000
+Bengaluru,Meerut ,50,550,126000
+Bengaluru,Rajkot ,50,550,126000
+Bengaluru,Vasai Virar City ,50,550,126000
+Bengaluru,Varanasi ,50,550,126000
+Bengaluru,Srinagar ,50,550,126000
+Bengaluru,Dhanbad ,50,550,126000
+Hyderabad ,Mumbai ,50,550,126000
+Hyderabad ,Delhi ,50,550,126000
+Hyderabad ,Bengaluru,50,550,126000
+Hyderabad ,Ahmadabad ,50,550,126000
+Hyderabad ,Surat ,50,550,126000
+Hyderabad ,Kolkata ,50,550,126000
+Hyderabad ,Chennai ,50,550,126000
+Hyderabad ,Jaipur ,50,550,126000
+Hyderabad ,Pune ,50,550,126000
+Hyderabad ,Kanpur ,50,550,126000
+Hyderabad ,Lucknow ,50,550,126000
+Hyderabad ,Nagpur ,50,550,126000
+Hyderabad ,Indore ,50,550,126000
+Hyderabad ,Thane ,50,550,126000
+Hyderabad ,Pimpri Chinchwad ,50,550,126000
+Hyderabad ,Bhopal ,50,550,126000
+Hyderabad ,Patna ,50,550,126000
+Hyderabad ,Visakhapatnam,50,550,126000
+Hyderabad ,Ludhiana ,50,550,126000
+Hyderabad ,Vadodara ,50,550,126000
+Hyderabad ,Agra ,50,550,126000
+Hyderabad ,Nashik ,50,550,126000
+Hyderabad ,Faridabad ,50,550,126000
+Hyderabad ,Meerut ,50,550,126000
+Hyderabad ,Rajkot ,50,550,126000
+Hyderabad ,Vasai Virar City ,50,550,126000
+Hyderabad ,Varanasi ,50,550,126000
+Hyderabad ,Srinagar ,50,550,126000
+Hyderabad ,Dhanbad ,50,550,126000
+Ahmadabad ,Mumbai ,50,550,126000
+Ahmadabad ,Delhi ,50,550,126000
+Ahmadabad ,Bengaluru,50,550,126000
+Ahmadabad ,Hyderabad ,50,550,126000
+Ahmadabad ,Surat ,50,550,126000
+Ahmadabad ,Kolkata ,50,550,126000
+Ahmadabad ,Chennai ,50,550,126000
+Ahmadabad ,Jaipur ,50,550,126000
+Ahmadabad ,Pune ,50,550,126000
+Ahmadabad ,Kanpur ,50,550,126000
+Ahmadabad ,Lucknow ,50,550,126000
+Ahmadabad ,Nagpur ,50,550,126000
+Ahmadabad ,Indore ,50,550,126000
+Ahmadabad ,Thane ,50,550,126000
+Ahmadabad ,Pimpri Chinchwad ,50,550,126000
+Ahmadabad ,Bhopal ,50,550,126000
+Ahmadabad ,Patna ,50,550,126000
+Ahmadabad ,Visakhapatnam,50,550,126000
+Ahmadabad ,Ludhiana ,50,550,126000
+Ahmadabad ,Vadodara ,50,550,126000
+Ahmadabad ,Agra ,50,550,126000
+Ahmadabad ,Nashik ,50,550,126000
+Ahmadabad ,Faridabad ,50,550,126000
+Ahmadabad ,Meerut ,50,550,126000
+Ahmadabad ,Rajkot ,50,550,126000
+Ahmadabad ,Vasai Virar City ,50,550,126000
+Ahmadabad ,Varanasi ,50,550,126000
+Ahmadabad ,Srinagar ,50,550,126000
+Ahmadabad ,Dhanbad ,50,550,126000
+Surat ,Mumbai ,50,550,126000
+Surat ,Delhi ,50,550,126000
+Surat ,Bengaluru,50,550,126000
+Surat ,Hyderabad ,50,550,126000
+Surat ,Ahmadabad ,50,550,126000
+Surat ,Kolkata ,50,550,126000
+Surat ,Chennai ,50,550,126000
+Surat ,Jaipur ,50,550,126000
+Surat ,Pune ,50,550,126000
+Surat ,Kanpur ,50,550,126000
+Surat ,Lucknow ,50,550,126000
+Surat ,Nagpur ,50,550,126000
+Surat ,Indore ,50,550,126000
+Surat ,Thane ,50,550,126000
+Surat ,Pimpri Chinchwad ,50,550,126000
+Surat ,Bhopal ,50,550,126000
+Surat ,Patna ,50,550,126000
+Surat ,Visakhapatnam,50,550,126000
+Surat ,Ludhiana ,50,550,126000
+Surat ,Vadodara ,50,550,126000
+Surat ,Agra ,50,550,126000
+Surat ,Nashik ,50,550,126000
+Surat ,Faridabad ,50,550,126000
+Surat ,Meerut ,50,550,126000
+Surat ,Rajkot ,50,550,126000
+Surat ,Vasai Virar City ,50,550,126000
+Surat ,Varanasi ,50,550,126000
+Surat ,Srinagar ,50,550,126000
+Surat ,Dhanbad ,50,550,126000
+Kolkata ,Mumbai ,50,550,126000
+Kolkata ,Delhi ,50,550,126000
+Kolkata ,Bengaluru,50,550,126000
+Kolkata ,Hyderabad ,50,550,126000
+Kolkata ,Ahmadabad ,50,550,126000
+Kolkata ,Surat ,50,550,126000
+Kolkata ,Chennai ,50,550,126000
+Kolkata ,Jaipur ,50,550,126000
+Kolkata ,Pune ,50,550,126000
+Kolkata ,Kanpur ,50,550,126000
+Kolkata ,Lucknow ,50,550,126000
+Kolkata ,Nagpur ,50,550,126000
+Kolkata ,Indore ,50,550,126000
+Kolkata ,Thane ,50,550,126000
+Kolkata ,Pimpri Chinchwad ,50,550,126000
+Kolkata ,Bhopal ,50,550,126000
+Kolkata ,Patna ,50,550,126000
+Kolkata ,Visakhapatnam,50,550,126000
+Kolkata ,Ludhiana ,50,550,126000
+Kolkata ,Vadodara ,50,550,126000
+Kolkata ,Agra ,50,550,126000
+Kolkata ,Nashik ,50,550,126000
+Kolkata ,Faridabad ,50,550,126000
+Kolkata ,Meerut ,50,550,126000
+Kolkata ,Rajkot ,50,550,126000
+Kolkata ,Vasai Virar City ,50,550,126000
+Kolkata ,Varanasi ,50,550,126000
+Kolkata ,Srinagar ,50,550,126000
+Kolkata ,Dhanbad ,50,550,126000
+Chennai ,Mumbai ,50,550,126000
+Chennai ,Delhi ,50,550,126000
+Chennai ,Bengaluru,50,550,126000
+Chennai ,Hyderabad ,50,550,126000
+Chennai ,Ahmadabad ,50,550,126000
+Chennai ,Surat ,50,550,126000
+Chennai ,Kolkata ,50,550,126000
+Chennai ,Jaipur ,50,550,126000
+Chennai ,Pune ,50,550,126000
+Chennai ,Kanpur ,50,550,126000
+Chennai ,Lucknow ,50,550,126000
+Chennai ,Nagpur ,50,550,126000
+Chennai ,Indore ,50,550,126000
+Chennai ,Thane ,50,550,126000
+Chennai ,Pimpri Chinchwad ,50,550,126000
+Chennai ,Bhopal ,50,550,126000
+Chennai ,Patna ,50,550,126000
+Chennai ,Visakhapatnam,50,550,126000
+Chennai ,Ludhiana ,50,550,126000
+Chennai ,Vadodara ,50,550,126000
+Chennai ,Agra ,50,550,126000
+Chennai ,Nashik ,50,550,126000
+Chennai ,Faridabad ,50,550,126000
+Chennai ,Meerut ,50,550,126000
+Chennai ,Rajkot ,50,550,126000
+Chennai ,Vasai Virar City ,50,550,126000
+Chennai ,Varanasi ,50,550,126000
+Chennai ,Srinagar ,50,550,126000
+Chennai ,Dhanbad ,50,550,126000
+Jaipur ,Mumbai ,50,550,126000
+Jaipur ,Delhi ,50,550,126000
+Jaipur ,Bengaluru,50,550,126000
+Jaipur ,Hyderabad ,50,550,126000
+Jaipur ,Ahmadabad ,50,550,126000
+Jaipur ,Surat ,50,550,126000
+Jaipur ,Kolkata ,50,550,126000
+Jaipur ,Chennai ,50,550,126000
+Jaipur ,Pune ,50,550,126000
+Jaipur ,Kanpur ,50,550,126000
+Jaipur ,Lucknow ,50,550,126000
+Jaipur ,Nagpur ,50,550,126000
+Jaipur ,Indore ,50,550,126000
+Jaipur ,Thane ,50,550,126000
+Jaipur ,Pimpri Chinchwad ,50,550,126000
+Jaipur ,Bhopal ,50,550,126000
+Jaipur ,Patna ,50,550,126000
+Jaipur ,Visakhapatnam,50,550,126000
+Jaipur ,Ludhiana ,50,550,126000
+Jaipur ,Vadodara ,50,550,126000
+Jaipur ,Agra ,50,550,126000
+Jaipur ,Nashik ,50,550,126000
+Jaipur ,Faridabad ,50,550,126000
+Jaipur ,Meerut ,50,550,126000
+Jaipur ,Rajkot ,50,550,126000
+Jaipur ,Vasai Virar City ,50,550,126000
+Jaipur ,Varanasi ,50,550,126000
+Jaipur ,Srinagar ,50,550,126000
+Jaipur ,Dhanbad ,50,550,126000
+Pune ,Mumbai ,50,550,126000
+Pune ,Delhi ,50,550,126000
+Pune ,Bengaluru,50,550,126000
+Pune ,Hyderabad ,50,550,126000
+Pune ,Ahmadabad ,50,550,126000
+Pune ,Surat ,50,550,126000
+Pune ,Kolkata ,50,550,126000
+Pune ,Chennai ,50,550,126000
+Pune ,Jaipur ,50,550,126000
+Pune ,Kanpur ,50,550,126000
+Pune ,Lucknow ,50,550,126000
+Pune ,Nagpur ,50,550,126000
+Pune ,Indore ,50,550,126000
+Pune ,Thane ,50,550,126000
+Pune ,Pimpri Chinchwad ,50,550,126000
+Pune ,Bhopal ,50,550,126000
+Pune ,Patna ,50,550,126000
+Pune ,Visakhapatnam,50,550,126000
+Pune ,Ludhiana ,50,550,126000
+Pune ,Vadodara ,50,550,126000
+Pune ,Agra ,50,550,126000
+Pune ,Nashik ,50,550,126000
+Pune ,Faridabad ,50,550,126000
+Pune ,Meerut ,50,550,126000
+Pune ,Rajkot ,50,550,126000
+Pune ,Vasai Virar City ,50,550,126000
+Pune ,Varanasi ,50,550,126000
+Pune ,Srinagar ,50,550,126000
+Pune ,Dhanbad ,50,550,126000
+Kanpur ,Mumbai ,50,550,126000
+Kanpur ,Delhi ,50,550,126000
+Kanpur ,Bengaluru,50,550,126000
+Kanpur ,Hyderabad ,50,550,126000
+Kanpur ,Ahmadabad ,50,550,126000
+Kanpur ,Surat ,50,550,126000
+Kanpur ,Kolkata ,50,550,126000
+Kanpur ,Chennai ,50,550,126000
+Kanpur ,Jaipur ,50,550,126000
+Kanpur ,Pune ,50,550,126000
+Kanpur ,Lucknow ,50,550,126000
+Kanpur ,Nagpur ,50,550,126000
+Kanpur ,Indore ,50,550,126000
+Kanpur ,Thane ,50,550,126000
+Kanpur ,Pimpri Chinchwad ,50,550,126000
+Kanpur ,Bhopal ,50,550,126000
+Kanpur ,Patna ,50,550,126000
+Kanpur ,Visakhapatnam,50,550,126000
+Kanpur ,Ludhiana ,50,550,126000
+Kanpur ,Vadodara ,50,550,126000
+Kanpur ,Agra ,50,550,126000
+Kanpur ,Nashik ,50,550,126000
+Kanpur ,Faridabad ,50,550,126000
+Kanpur ,Meerut ,50,550,126000
+Kanpur ,Rajkot ,50,550,126000
+Kanpur ,Vasai Virar City ,50,550,126000
+Kanpur ,Varanasi ,50,550,126000
+Kanpur ,Srinagar ,50,550,126000
+Kanpur ,Dhanbad ,50,550,126000
+Lucknow ,Mumbai ,50,550,126000
+Lucknow ,Delhi ,50,550,126000
+Lucknow ,Bengaluru,50,550,126000
+Lucknow ,Hyderabad ,50,550,126000
+Lucknow ,Ahmadabad ,50,550,126000
+Lucknow ,Surat ,50,550,126000
+Lucknow ,Kolkata ,50,550,126000
+Lucknow ,Chennai ,50,550,126000
+Lucknow ,Jaipur ,50,550,126000
+Lucknow ,Pune ,50,550,126000
+Lucknow ,Kanpur ,50,550,126000
+Lucknow ,Nagpur ,50,550,126000
+Lucknow ,Indore ,50,550,126000
+Lucknow ,Thane ,50,550,126000
+Lucknow ,Pimpri Chinchwad ,50,550,126000
+Lucknow ,Bhopal ,50,550,126000
+Lucknow ,Patna ,50,550,126000
+Lucknow ,Visakhapatnam,50,550,126000
+Lucknow ,Ludhiana ,50,550,126000
+Lucknow ,Vadodara ,50,550,126000
+Lucknow ,Agra ,50,550,126000
+Lucknow ,Nashik ,50,550,126000
+Lucknow ,Faridabad ,50,550,126000
+Lucknow ,Meerut ,50,550,126000
+Lucknow ,Rajkot ,50,550,126000
+Lucknow ,Vasai Virar City ,50,550,126000
+Lucknow ,Varanasi ,50,550,126000
+Lucknow ,Srinagar ,50,550,126000
+Lucknow ,Dhanbad ,50,550,126000
+Nagpur ,Mumbai ,50,550,126000
+Nagpur ,Delhi ,50,550,126000
+Nagpur ,Bengaluru,50,550,126000
+Nagpur ,Hyderabad ,50,550,126000
+Nagpur ,Ahmadabad ,50,550,126000
+Nagpur ,Surat ,50,550,126000
+Nagpur ,Kolkata ,50,550,126000
+Nagpur ,Chennai ,50,550,126000
+Nagpur ,Jaipur ,50,550,126000
+Nagpur ,Pune ,50,550,126000
+Nagpur ,Kanpur ,50,550,126000
+Nagpur ,Lucknow ,50,550,126000
+Nagpur ,Indore ,50,550,126000
+Nagpur ,Thane ,50,550,126000
+Nagpur ,Pimpri Chinchwad ,50,550,126000
+Nagpur ,Bhopal ,50,550,126000
+Nagpur ,Patna ,50,550,126000
+Nagpur ,Visakhapatnam,50,550,126000
+Nagpur ,Ludhiana ,50,550,126000
+Nagpur ,Vadodara ,50,550,126000
+Nagpur ,Agra ,50,550,126000
+Nagpur ,Nashik ,50,550,126000
+Nagpur ,Faridabad ,50,550,126000
+Nagpur ,Meerut ,50,550,126000
+Nagpur ,Rajkot ,50,550,126000
+Nagpur ,Vasai Virar City ,50,550,126000
+Nagpur ,Varanasi ,50,550,126000
+Nagpur ,Srinagar ,50,550,126000
+Nagpur ,Dhanbad ,50,550,126000
+Indore ,Mumbai ,50,550,126000
+Indore ,Delhi ,50,550,126000
+Indore ,Bengaluru,50,550,126000
+Indore ,Hyderabad ,50,550,126000
+Indore ,Ahmadabad ,50,550,126000
+Indore ,Surat ,50,550,126000
+Indore ,Kolkata ,50,550,126000
+Indore ,Chennai ,50,550,126000
+Indore ,Jaipur ,50,550,126000
+Indore ,Pune ,50,550,126000
+Indore ,Kanpur ,50,550,126000
+Indore ,Lucknow ,50,550,126000
+Indore ,Nagpur ,50,550,126000
+Indore ,Thane ,50,550,126000
+Indore ,Pimpri Chinchwad ,50,550,126000
+Indore ,Bhopal ,50,550,126000
+Indore ,Patna ,50,550,126000
+Indore ,Visakhapatnam,50,550,126000
+Indore ,Ludhiana ,50,550,126000
+Indore ,Vadodara ,50,550,126000
+Indore ,Agra ,50,550,126000
+Indore ,Nashik ,50,550,126000
+Indore ,Faridabad ,50,550,126000
+Indore ,Meerut ,50,550,126000
+Indore ,Rajkot ,50,550,126000
+Indore ,Vasai Virar City ,50,550,126000
+Indore ,Varanasi ,50,550,126000
+Indore ,Srinagar ,50,550,126000
+Indore ,Dhanbad ,50,550,126000
+Thane ,Mumbai ,50,550,126000
+Thane ,Delhi ,50,550,126000
+Thane ,Bengaluru,50,550,126000
+Thane ,Hyderabad ,50,550,126000
+Thane ,Ahmadabad ,50,550,126000
+Thane ,Surat ,50,550,126000
+Thane ,Kolkata ,50,550,126000
+Thane ,Chennai ,50,550,126000
+Thane ,Jaipur ,50,550,126000
+Thane ,Pune ,50,550,126000
+Thane ,Kanpur ,50,550,126000
+Thane ,Lucknow ,50,550,126000
+Thane ,Nagpur ,50,550,126000
+Thane ,Indore ,50,550,126000
+Thane ,Pimpri Chinchwad ,50,550,126000
+Thane ,Bhopal ,50,550,126000
+Thane ,Patna ,50,550,126000
+Thane ,Visakhapatnam,50,550,126000
+Thane ,Ludhiana ,50,550,126000
+Thane ,Vadodara ,50,550,126000
+Thane ,Agra ,50,550,126000
+Thane ,Nashik ,50,550,126000
+Thane ,Faridabad ,50,550,126000
+Thane ,Meerut ,50,550,126000
+Thane ,Rajkot ,50,550,126000
+Thane ,Vasai Virar City ,50,550,126000
+Thane ,Varanasi ,50,550,126000
+Thane ,Srinagar ,50,550,126000
+Thane ,Dhanbad ,50,550,126000
+Pimpri Chinchwad ,Mumbai ,50,550,126000
+Pimpri Chinchwad ,Delhi ,50,550,126000
+Pimpri Chinchwad ,Bengaluru,50,550,126000
+Pimpri Chinchwad ,Hyderabad ,50,550,126000
+Pimpri Chinchwad ,Ahmadabad ,50,550,126000
+Pimpri Chinchwad ,Surat ,50,550,126000
+Pimpri Chinchwad ,Kolkata ,50,550,126000
+Pimpri Chinchwad ,Chennai ,50,550,126000
+Pimpri Chinchwad ,Jaipur ,50,550,126000
+Pimpri Chinchwad ,Pune ,50,550,126000
+Pimpri Chinchwad ,Kanpur ,50,550,126000
+Pimpri Chinchwad ,Lucknow ,50,550,126000
+Pimpri Chinchwad ,Nagpur ,50,550,126000
+Pimpri Chinchwad ,Indore ,50,550,126000
+Pimpri Chinchwad ,Thane ,50,550,126000
+Pimpri Chinchwad ,Bhopal ,50,550,126000
+Pimpri Chinchwad ,Patna ,50,550,126000
+Pimpri Chinchwad ,Visakhapatnam,50,550,126000
+Pimpri Chinchwad ,Ludhiana ,50,550,126000
+Pimpri Chinchwad ,Vadodara ,50,550,126000
+Pimpri Chinchwad ,Agra ,50,550,126000
+Pimpri Chinchwad ,Nashik ,50,550,126000
+Pimpri Chinchwad ,Faridabad ,50,550,126000
+Pimpri Chinchwad ,Meerut ,50,550,126000
+Pimpri Chinchwad ,Rajkot ,50,550,126000
+Pimpri Chinchwad ,Vasai Virar City ,50,550,126000
+Pimpri Chinchwad ,Varanasi ,50,550,126000
+Pimpri Chinchwad ,Srinagar ,50,550,126000
+Pimpri Chinchwad ,Dhanbad ,50,550,126000
+Bhopal ,Mumbai ,50,550,126000
+Bhopal ,Delhi ,50,550,126000
+Bhopal ,Bengaluru,50,550,126000
+Bhopal ,Hyderabad ,50,550,126000
+Bhopal ,Ahmadabad ,50,550,126000
+Bhopal ,Surat ,50,550,126000
+Bhopal ,Kolkata ,50,550,126000
+Bhopal ,Chennai ,50,550,126000
+Bhopal ,Jaipur ,50,550,126000
+Bhopal ,Pune ,50,550,126000
+Bhopal ,Kanpur ,50,550,126000
+Bhopal ,Lucknow ,50,550,126000
+Bhopal ,Nagpur ,50,550,126000
+Bhopal ,Indore ,50,550,126000
+Bhopal ,Thane ,50,550,126000
+Bhopal ,Pimpri Chinchwad ,50,550,126000
+Bhopal ,Patna ,50,550,126000
+Bhopal ,Visakhapatnam,50,550,126000
+Bhopal ,Ludhiana ,50,550,126000
+Bhopal ,Vadodara ,50,550,126000
+Bhopal ,Agra ,50,550,126000
+Bhopal ,Nashik ,50,550,126000
+Bhopal ,Faridabad ,50,550,126000
+Bhopal ,Meerut ,50,550,126000
+Bhopal ,Rajkot ,50,550,126000
+Bhopal ,Vasai Virar City ,50,550,126000
+Bhopal ,Varanasi ,50,550,126000
+Bhopal ,Srinagar ,50,550,126000
+Bhopal ,Dhanbad ,50,550,126000
+Patna ,Mumbai ,50,550,126000
+Patna ,Delhi ,50,550,126000
+Patna ,Bengaluru,50,550,126000
+Patna ,Hyderabad ,50,550,126000
+Patna ,Ahmadabad ,50,550,126000
+Patna ,Surat ,50,550,126000

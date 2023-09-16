@@ -1,0 +1,871 @@
+Source,Destination,Air Distance (km),Rail Distance (km),Road Distance (km)
+Mumbai ,Delhi ,1144.16,1190.94,1431.71
+Mumbai ,Bengaluru,842.55,877.27,1054.7
+Mumbai ,Hyderabad ,621.64,647.52,778.56
+Mumbai ,Ahmadabad ,437.67,456.19,548.6
+Mumbai ,Surat ,6943.76,7222.5,8681.19
+Mumbai ,Kolkata ,1656.73,1724.01,2072.43
+Mumbai ,Chennai ,1031.89,1074.18,1291.37
+Mumbai ,Jaipur ,918.66,956.42,1149.83
+Mumbai ,Pune ,119.98,125.79,151.48
+Mumbai ,Kanpur ,1118.64,1164.39,1399.81
+Mumbai ,Lucknow ,1191.35,1240.01,1490.69
+Mumbai ,Nagpur ,688.0,716.53,861.51
+Mumbai ,Indore ,509.21,530.59,638.03
+Mumbai ,Thane ,16.06,17.72,21.59
+Mumbai ,Pimpri Chinchwad ,109.29,114.68,138.13
+Mumbai ,Bhopal ,659.36,686.74,825.71
+Mumbai ,Patna ,1452.82,1511.94,1817.53
+Mumbai ,Visakhapatnam,1111.33,1156.79,1390.67
+Mumbai ,Ludhiana ,1339.21,1393.79,1675.52
+Mumbai ,Vadodara ,357.88,373.21,448.86
+Mumbai ,Agra ,1039.03,1081.6,1300.29
+Mumbai ,Nashik ,140.79,147.43,177.5
+Mumbai ,Faridabad ,1126.98,1173.06,1410.23
+Mumbai ,Meerut ,1201.58,1250.66,1503.49
+Mumbai ,Rajkot ,417.56,435.27,523.46
+Mumbai ,Vasai Virar City ,38.41,40.96,49.52
+Mumbai ,Varanasi ,1252.58,1303.69,1567.23
+Mumbai ,Srinagar ,1672.71,1740.62,2092.39
+Mumbai ,Dhanbad ,1497.92,1558.84,1873.91
+Delhi ,Mumbai ,1144.16,1190.94,1431.71
+Delhi ,Bengaluru,1733.37,1803.71,2168.22
+Delhi ,Hyderabad ,1254.85,1306.05,1570.07
+Delhi ,Ahmadabad ,772.9,804.82,967.63
+Delhi ,Surat ,6585.61,6850.03,8233.5
+Delhi ,Kolkata ,1308.14,1361.48,1636.69
+Delhi ,Chennai ,1750.69,1821.72,2189.87
+Delhi ,Jaipur ,231.87,242.16,291.35
+Delhi ,Pune ,1169.18,1216.96,1462.98
+Delhi ,Kanpur ,392.96,409.69,492.71
+Delhi ,Lucknow ,420.66,438.49,527.33
+Delhi ,Nagpur ,850.45,885.48,1064.57
+Delhi ,Indore ,667.34,695.04,835.68
+Delhi ,Thane ,1128.69,1174.85,1412.37
+Delhi ,Pimpri Chinchwad ,1159.46,1206.85,1450.84
+Delhi ,Bhopal ,595.26,620.08,745.58
+Delhi ,Patna ,856.15,891.41,1071.7
+Delhi ,Visakhapatnam,1360.28,1415.7,1701.86
+Delhi ,Ludhiana ,282.39,294.7,354.5
+Delhi ,Vadodara ,807.14,840.43,1010.43
+Delhi ,Agra ,180.84,189.09,227.57
+Delhi ,Nashik ,1014.02,1055.59,1269.03
+Delhi ,Faridabad ,28.33,30.47,36.92
+Delhi ,Meerut ,65.52,69.15,83.41
+Delhi ,Rajkot ,948.66,987.62,1187.33
+Delhi ,Vasai Virar City ,1111.36,1156.82,1390.7
+Delhi ,Varanasi ,684.43,712.82,857.05
+Delhi ,Srinagar ,644.02,670.79,806.54
+Delhi ,Dhanbad ,1068.48,1112.23,1337.11
+Bengaluru,Mumbai ,842.55,877.27,1054.7
+Bengaluru,Delhi ,1733.37,1803.71,2168.22
+Bengaluru,Hyderabad ,494.28,515.06,619.36
+Bengaluru,Ahmadabad ,1231.53,1281.8,1540.92
+Bengaluru,Surat ,7774.2,8086.16,9719.23
+Bengaluru,Kolkata ,1558.47,1621.81,1949.59
+Bengaluru,Chennai ,290.95,303.61,365.2
+Bengaluru,Jaipur ,1554.14,1617.32,1944.18
+Bengaluru,Pune ,732.5,762.81,917.14
+Bengaluru,Kanpur ,1519.8,1581.6,1901.26
+Bengaluru,Lucknow ,1573.73,1637.69,1968.67
+Bengaluru,Nagpur ,918.33,956.07,1149.42
+Bengaluru,Indore ,1093.71,1138.47,1368.65
+Bengaluru,Thane ,846.99,881.88,1060.25
+Bengaluru,Pimpri Chinchwad ,745.44,776.27,933.31
+Bengaluru,Bhopal ,1138.19,1184.73,1424.25
+Bengaluru,Patna ,1605.91,1671.16,2008.89
+Bengaluru,Visakhapatnam,807.22,840.52,1010.53
+Bengaluru,Ludhiana ,1990.4,2071.03,2489.51
+Bengaluru,Vadodara ,1131.87,1178.15,1416.35
+Bengaluru,Agra ,1572.51,1636.42,1967.15
+Bengaluru,Nashik ,877.69,913.81,1098.62
+Bengaluru,Faridabad ,1708.22,1777.56,2136.78
+Bengaluru,Meerut ,1772.25,1844.14,2216.81
+Bengaluru,Rajkot ,1258.25,1309.59,1574.32
+Bengaluru,Vasai Virar City ,876.58,912.65,1097.23
+Bengaluru,Varanasi ,1481.46,1541.72,1853.33
+Bengaluru,Srinagar ,2353.56,2448.71,2943.46
+Bengaluru,Dhanbad ,1517.6,1579.31,1898.51
+Hyderabad ,Mumbai ,621.64,647.52,778.56
+Hyderabad ,Delhi ,1254.85,1306.05,1570.07
+Hyderabad ,Bengaluru,494.28,515.06,619.36
+Hyderabad ,Ahmadabad ,878.55,914.71,1099.7
+Hyderabad ,Surat ,7506.97,7808.24,9385.19
+Hyderabad ,Kolkata ,1184.54,1232.94,1482.19
+Hyderabad ,Chennai ,511.06,532.51,640.33
+Hyderabad ,Jaipur ,1092.81,1137.53,1367.52
+Hyderabad ,Pune ,505.96,527.21,633.96
+Hyderabad ,Kanpur ,1025.56,1067.59,1283.45
+Hyderabad ,Lucknow ,1079.65,1123.85,1351.07
+Hyderabad ,Nagpur ,424.29,442.27,531.87
+Hyderabad ,Indore ,652.93,680.06,817.67
+Hyderabad ,Thane ,616.3,641.96,771.88
+Hyderabad ,Pimpri Chinchwad ,514.39,535.97,644.49
+Hyderabad ,Bhopal ,662.47,689.98,829.6
+Hyderabad ,Patna ,1143.57,1190.33,1430.98
+Hyderabad ,Visakhapatnam,514.08,535.66,644.12
+Hyderabad ,Ludhiana ,1521.18,1583.03,1902.98
+Hyderabad ,Vadodara ,777.38,809.48,973.23
+Hyderabad ,Agra ,1087.88,1132.41,1361.36
+Hyderabad ,Nashik ,574.57,598.57,719.72
+Hyderabad ,Faridabad ,1228.69,1278.85,1537.37
+Hyderabad ,Meerut ,1289.51,1342.1,1613.39
+Hyderabad ,Rajkot ,971.99,1011.88,1216.5
+Hyderabad ,Vasai Virar City ,639.47,666.06,800.85
+Hyderabad ,Varanasi ,1000.17,1041.18,1251.72
+Hyderabad ,Srinagar ,1887.26,1963.76,2360.58
+Hyderabad ,Dhanbad ,1092.96,1137.69,1367.71
+Ahmadabad ,Mumbai ,437.67,456.19,548.6
+Ahmadabad ,Delhi ,772.9,804.82,967.63
+Ahmadabad ,Bengaluru,1231.53,1281.8,1540.92
+Ahmadabad ,Hyderabad ,878.55,914.71,1099.7
+Ahmadabad ,Surat ,6629.96,6896.15,8288.94
+Ahmadabad ,Kolkata ,1620.63,1686.46,2027.29
+Ahmadabad ,Chennai ,1367.69,1423.41,1711.12
+Ahmadabad ,Jaipur ,541.26,563.92,678.08
+Ahmadabad ,Pune ,515.6,537.24,646.01
+Ahmadabad ,Kanpur ,870.66,906.5,1089.84
+Ahmadabad ,Lucknow ,943.53,982.28,1180.92
+Ahmadabad ,Nagpur ,702.23,731.33,879.3
+Ahmadabad ,Indore ,339.1,353.68,425.39
+Ahmadabad ,Thane ,425.69,443.73,533.62
+Ahmadabad ,Pimpri Chinchwad ,502.77,523.9,629.98
+Ahmadabad ,Bhopal ,494.55,515.35,619.7
+Ahmadabad ,Patna ,1304.5,1357.69,1632.13
+Ahmadabad ,Visakhapatnam,1263.04,1314.57,1580.31
+Ahmadabad ,Ludhiana ,926.62,964.7,1159.79
+Ahmadabad ,Vadodara ,102.09,107.19,129.13
+Ahmadabad ,Agra ,715.16,744.78,895.47
+Ahmadabad ,Nashik ,356.13,371.39,446.67
+Ahmadabad ,Faridabad ,761.94,793.43,953.94
+Ahmadabad ,Meerut ,836.25,870.72,1046.83
+Ahmadabad ,Rajkot ,199.1,208.08,250.39
+Ahmadabad ,Vasai Virar City ,399.43,416.42,500.8
+Ahmadabad ,Varanasi ,1089.8,1134.4,1363.75
+Ahmadabad ,Srinagar ,1244.38,1295.16,1556.98
+Ahmadabad ,Dhanbad ,1417.79,1475.51,1773.74
+Surat ,Mumbai ,6943.76,7222.5,8681.19
+Surat ,Delhi ,6585.61,6850.03,8233.5
+Surat ,Bengaluru,7774.2,8086.16,9719.23
+Surat ,Hyderabad ,7506.97,7808.24,9385.19
+Surat ,Ahmadabad ,6629.96,6896.15,8288.94
+Surat ,Kolkata ,7873.95,8189.89,9843.92
+Surat ,Chennai ,7973.73,8293.67,9968.65
+Surat ,Jaipur ,6601.83,6866.89,8253.77
+Surat ,Pune ,7061.24,7344.68,8828.04
+Surat ,Kanpur ,6978.36,7258.49,8724.44
+Surat ,Lucknow ,6998.02,7278.94,8749.02
+Surat ,Nagpur ,7270.07,7561.87,9089.07
+Surat ,Indore ,6906.35,7183.6,8634.43
+Surat ,Thane ,6942.23,7220.92,8679.28
+Surat ,Pimpri Chinchwad ,7049.1,7332.05,8812.86
+Surat ,Bhopal ,6985.54,7265.96,8733.42
+Surat ,Patna ,7404.08,7701.24,9256.59
+Surat ,Visakhapatnam,7852.87,8167.97,9817.57
+Surat ,Ludhiana ,6327.03,6581.11,7910.28
+Surat ,Vadodara ,6730.27,7000.48,8414.33
+Surat ,Agra ,6751.26,7022.3,8440.56
+Surat ,Nashik ,6944.92,7223.71,8682.64
+Surat ,Faridabad ,6611.79,6877.26,8266.23
+Surat ,Meerut ,6601.78,6866.85,8253.72
+Surat ,Rajkot ,6544.32,6807.08,8181.89
+Surat ,Vasai Virar City ,6913.63,7191.17,8643.52
+Surat ,Varanasi ,7263.81,7555.35,9081.25
+Surat ,Srinagar ,6042.15,6284.84,7554.19
+Surat ,Dhanbad ,7636.5,7942.95,9547.11
+Kolkata ,Mumbai ,1656.73,1724.01,2072.43
+Kolkata ,Delhi ,1308.14,1361.48,1636.69
+Kolkata ,Bengaluru,1558.47,1621.81,1949.59
+Kolkata ,Hyderabad ,1184.54,1232.94,1482.19
+Kolkata ,Ahmadabad ,1620.63,1686.46,2027.29
+Kolkata ,Surat ,7873.95,8189.89,9843.92
+Kolkata ,Chennai ,1355.3,1410.52,1695.63
+Kolkata ,Jaipur ,1356.26,1411.52,1696.83
+Kolkata ,Pune ,1577.22,1641.32,1973.04
+Kolkata ,Kanpur ,921.48,959.35,1153.35
+Kolkata ,Lucknow ,887.59,924.11,1111.0
+Kolkata ,Nagpur ,972.06,1011.96,1216.59
+Kolkata ,Indore ,1284.13,1336.5,1606.67
+Kolkata ,Thane ,1643.9,1710.66,2056.38
+Kolkata ,Pimpri Chinchwad ,1578.78,1642.94,1974.98
+Kolkata ,Bhopal ,1126.83,1172.92,1410.05
+Kolkata ,Patna ,470.78,490.63,589.99
+Kolkata ,Visakhapatnam,753.74,784.9,943.69
+Kolkata ,Ludhiana ,1550.45,1613.48,1939.57
+Kolkata ,Vadodara ,1561.25,1624.71,1953.08
+Kolkata ,Agra ,1163.27,1210.81,1455.6
+Kolkata ,Nashik ,1537.91,1600.44,1923.9
+Kolkata ,Faridabad ,1284.48,1336.86,1607.1
+Kolkata ,Meerut ,1282.2,1334.5,1604.26
+Kolkata ,Rajkot ,1806.96,1880.25,2260.21
+Kolkata ,Vasai Virar City ,1652.49,1719.6,2067.12
+Kolkata ,Varanasi ,625.12,651.13,782.9
+Kolkata ,Srinagar ,1837.39,1911.89,2298.24
+Kolkata ,Dhanbad ,239.78,250.39,301.24
+Chennai ,Mumbai ,1031.89,1074.18,1291.37
+Chennai ,Delhi ,1750.69,1821.72,2189.87
+Chennai ,Bengaluru,290.95,303.61,365.2
+Chennai ,Hyderabad ,511.06,532.51,640.33
+Chennai ,Ahmadabad ,1367.69,1423.41,1711.12
+Chennai ,Surat ,7973.73,8293.67,9968.65
+Chennai ,Kolkata ,1355.3,1410.52,1695.63
+Chennai ,Jaipur ,1600.11,1665.12,2001.64
+Chennai ,Pune ,913.28,950.82,1143.11
+Chennai ,Kanpur ,1480.94,1541.19,1852.68
+Chennai ,Lucknow ,1524.3,1586.28,1906.88
+Chennai ,Nagpur ,901.59,938.66,1128.49
+Chennai ,Indore ,1163.84,1211.41,1456.31
+Chennai ,Thane ,1032.54,1074.85,1292.18
+Chennai ,Pimpri Chinchwad ,925.22,963.24,1158.04
+Chennai ,Bhopal ,1166.22,1213.88,1459.29
+Chennai ,Patna ,1476.9,1536.98,1847.63
+Chennai ,Visakhapatnam,607.74,633.06,761.18
+Chennai ,Ludhiana ,2022.88,2104.81,2530.11
+Chennai ,Vadodara ,1265.61,1317.24,1583.52
+Chennai ,Agra ,1577.76,1641.87,1973.7
+Chennai ,Nashik ,1032.16,1074.46,1291.71
+Chennai ,Faridabad ,1723.69,1793.65,2156.12
+Chennai ,Meerut ,1780.22,1852.44,2226.79
+Chennai ,Rajkot ,1430.87,1489.11,1790.09
+Chennai ,Vasai Virar City ,1060.79,1104.23,1327.5
+Chennai ,Varanasi ,1386.32,1442.79,1734.41
+Chennai ,Srinagar ,2389.46,2486.05,2988.33
+Chennai ,Dhanbad ,1351.9,1406.99,1691.39
+Jaipur ,Mumbai ,918.66,956.42,1149.83
+Jaipur ,Delhi ,231.87,242.16,291.35
+Jaipur ,Bengaluru,1554.14,1617.32,1944.18
+Jaipur ,Hyderabad ,1092.81,1137.53,1367.52
+Jaipur ,Ahmadabad ,541.26,563.92,678.08
+Jaipur ,Surat ,6601.83,6866.89,8253.77
+Jaipur ,Kolkata ,1356.26,1411.52,1696.83
+Jaipur ,Chennai ,1600.11,1665.12,2001.64
+Jaipur ,Pune ,951.17,990.22,1190.47
+Jaipur ,Kanpur ,450.94,469.99,565.19
+Jaipur ,Lucknow ,508.34,529.69,636.94
+Jaipur ,Nagpur ,719.61,749.41,901.02
+Jaipur ,Indore ,464.72,484.32,582.41
+Jaipur ,Thane ,903.44,940.59,1130.81
+Jaipur ,Pimpri Chinchwad ,940.82,979.47,1177.54
+Jaipur ,Bhopal ,435.42,453.85,545.79
+Jaipur ,Patna ,940.44,979.06,1177.05
+Jaipur ,Visakhapatnam,1276.09,1328.15,1596.62
+Jaipur ,Ludhiana ,438.73,457.29,549.93
+Jaipur ,Vadodara ,576.42,600.49,722.04
+Jaipur ,Agra ,219.26,229.04,275.59
+Jaipur ,Nashik ,792.19,824.89,991.75
+Jaipur ,Faridabad ,220.99,230.84,277.75
+Jaipur ,Meerut ,295.01,307.83,370.28
+Jaipur ,Rajkot ,720.1,749.91,901.63
+Jaipur ,Vasai Virar City ,884.86,921.27,1107.59
+Jaipur ,Varanasi ,739.82,770.42,926.28
+Jaipur ,Srinagar ,799.44,832.43,1000.81
+Jaipur ,Dhanbad ,1122.23,1168.13,1404.3
+Pune ,Mumbai ,119.98,125.79,151.48
+Pune ,Delhi ,1169.18,1216.96,1462.98
+Pune ,Bengaluru,732.5,762.81,917.14
+Pune ,Hyderabad ,505.96,527.21,633.96
+Pune ,Ahmadabad ,515.6,537.24,646.01
+Pune ,Surat ,7061.24,7344.68,8828.04
+Pune ,Kolkata ,1577.22,1641.32,1973.04
+Pune ,Chennai ,913.28,950.82,1143.11
+Pune ,Jaipur ,951.17,990.22,1190.47
+Pune ,Kanpur ,1102.16,1147.26,1379.21
+Pune ,Lucknow ,1173.07,1221.0,1467.84
+Pune ,Nagpur ,620.04,645.86,776.56
+Pune ,Indore ,510.03,531.45,639.05
+Pune ,Thane ,119.3,125.08,150.63
+Pune ,Pimpri Chinchwad ,13.07,14.61,17.85
+Pune ,Bhopal ,641.24,667.9,803.06
+Pune ,Patna ,1402.03,1459.12,1754.05
+Pune ,Visakhapatnam,1003.55,1044.7,1255.95
+Pune ,Ludhiana ,1382.22,1438.52,1729.28
+Pune ,Vadodara ,423.67,441.63,531.09
+Pune ,Agra ,1048.71,1091.67,1312.4
+Pune ,Nashik ,165.05,172.67,207.83
+Pune ,Faridabad ,1149.77,1196.77,1438.72
+Pune ,Meerut ,1223.16,1273.1,1530.46
+Pune ,Rajkot ,526.19,548.25,659.25
+Pune ,Vasai Virar City ,147.61,154.53,186.03
+Pune ,Varanasi ,1209.03,1258.4,1512.8
+Pune ,Srinagar ,1725.93,1795.97,2158.91
+Pune ,Dhanbad ,1429.85,1488.06,1788.82
+Kanpur ,Mumbai ,1118.64,1164.39,1399.81
+Kanpur ,Delhi ,392.96,409.69,492.71
+Kanpur ,Bengaluru,1519.8,1581.6,1901.26
+Kanpur ,Hyderabad ,1025.56,1067.59,1283.45
+Kanpur ,Ahmadabad ,870.66,906.5,1089.84
+Kanpur ,Surat ,6978.36,7258.49,8724.44
+Kanpur ,Kolkata ,921.48,959.35,1153.35
+Kanpur ,Chennai ,1480.94,1541.19,1852.68
+Kanpur ,Jaipur ,450.94,469.99,565.19
+Kanpur ,Pune ,1102.16,1147.26,1379.21
+Kanpur ,Lucknow ,73.95,77.93,93.96
+Kanpur ,Nagpur ,601.63,626.71,753.55
+Kanpur ,Indore ,612.37,637.87,766.97
+Kanpur ,Thane ,1102.63,1147.75,1379.8
+Kanpur ,Pimpri Chinchwad ,1095.98,1140.83,1371.49
+Kanpur ,Bhopal ,461.38,480.85,578.24
+Kanpur ,Patna ,489.74,510.34,613.68
+Kanpur ,Visakhapatnam,1015.11,1056.72,1270.39
+Kanpur ,Ludhiana ,659.42,686.8,825.78
+Kanpur ,Vadodara ,857.36,892.67,1073.21
+Kanpur ,Agra ,243.08,253.82,305.36
+Kanpur ,Nashik ,977.87,1018.0,1223.85
+Kanpur ,Faridabad ,367.34,383.05,460.69
+Kanpur ,Meerut ,380.13,396.35,476.67
+Kanpur ,Rajkot ,1069.29,1113.07,1338.12
+Kanpur ,Vasai Virar City ,1094.81,1139.62,1370.02
+Kanpur ,Varanasi ,296.59,309.47,372.25
+Kanpur ,Srinagar ,995.88,1036.72,1246.35
+Kanpur ,Dhanbad ,683.06,711.4,855.34
+Lucknow ,Mumbai ,1191.35,1240.01,1490.69
+Lucknow ,Delhi ,420.66,438.49,527.33
+Lucknow ,Bengaluru,1573.73,1637.69,1968.67
+Lucknow ,Hyderabad ,1079.65,1123.85,1351.07
+Lucknow ,Ahmadabad ,943.53,982.28,1180.92
+Lucknow ,Surat ,6998.02,7278.94,8749.02
+Lucknow ,Kolkata ,887.59,924.11,1111.0
+Lucknow ,Chennai ,1524.3,1586.28,1906.88
+Lucknow ,Jaipur ,508.34,529.69,636.94
+Lucknow ,Pune ,1173.07,1221.0,1467.84
+Lucknow ,Kanpur ,73.95,77.93,93.96
+Lucknow ,Nagpur ,657.59,684.9,823.5
+Lucknow ,Indore ,685.82,714.26,858.78
+Lucknow ,Thane ,1175.36,1223.38,1470.7
+Lucknow ,Pimpri Chinchwad ,1167.1,1214.8,1460.39
+Lucknow ,Bhopal ,533.14,555.47,667.93
+Lucknow ,Patna ,440.14,458.76,551.69
+Lucknow ,Visakhapatnam,1038.31,1080.86,1299.4
+Lucknow ,Ludhiana ,671.84,699.72,841.31
+Lucknow ,Vadodara ,931.18,969.44,1165.49
+Lucknow ,Agra ,292.67,305.39,367.35
+Lucknow ,Nashik ,1050.56,1093.59,1314.71
+Lucknow ,Faridabad ,397.5,414.42,498.39
+Lucknow ,Meerut ,396.66,413.54,497.34
+Lucknow ,Rajkot ,1141.95,1188.64,1428.95
+Lucknow ,Vasai Virar City ,1167.85,1215.58,1461.33
+Lucknow ,Varanasi ,265.92,277.57,333.91
+Lucknow ,Srinagar ,993.69,1034.45,1243.62
+Lucknow ,Dhanbad ,647.87,674.8,811.35
+Nagpur ,Mumbai ,688.0,716.53,861.51
+Nagpur ,Delhi ,850.45,885.48,1064.57
+Nagpur ,Bengaluru,918.33,956.07,1149.42
+Nagpur ,Hyderabad ,424.29,442.27,531.87
+Nagpur ,Ahmadabad ,702.23,731.33,879.3
+Nagpur ,Surat ,7270.07,7561.87,9089.07
+Nagpur ,Kolkata ,972.06,1011.96,1216.59
+Nagpur ,Chennai ,901.59,938.66,1128.49
+Nagpur ,Jaipur ,719.61,749.41,901.02
+Nagpur ,Pune ,620.04,645.86,776.56
+Nagpur ,Kanpur ,601.63,626.71,753.55
+Nagpur ,Lucknow ,657.59,684.9,823.5
+Nagpur ,Indore ,374.79,390.79,470.0
+Nagpur ,Thane ,674.5,702.49,844.63
+Nagpur ,Pimpri Chinchwad ,619.43,645.22,775.8
+Nagpur ,Bhopal ,290.74,303.38,364.93
+Nagpur ,Patna ,790.6,823.24,989.76
+Nagpur ,Visakhapatnam,583.2,607.54,730.51
+Nagpur ,Ludhiana ,1126.27,1172.33,1409.35
+Nagpur ,Vadodara ,622.22,648.12,779.28
+Nagpur ,Agra ,676.21,704.27,846.77
+Nagpur ,Nashik ,565.9,589.54,708.88
+Nagpur ,Faridabad ,823.14,857.08,1030.44
+Nagpur ,Meerut ,878.66,914.82,1099.83
+Nagpur ,Rajkot ,865.93,901.58,1083.93
+Nagpur ,Vasai Virar City ,681.5,709.77,853.38
+Nagpur ,Varanasi ,613.33,638.87,768.17
+Nagpur ,Srinagar ,1492.32,1553.03,1866.91
+Nagpur ,Dhanbad ,810.91,844.36,1015.15
+Indore ,Mumbai ,509.21,530.59,638.03
+Indore ,Delhi ,667.34,695.04,835.68
+Indore ,Bengaluru,1093.71,1138.47,1368.65
+Indore ,Hyderabad ,652.93,680.06,817.67
+Indore ,Ahmadabad ,339.1,353.68,425.39
+Indore ,Surat ,6906.35,7183.6,8634.43
+Indore ,Kolkata ,1284.13,1336.5,1606.67
+Indore ,Chennai ,1163.84,1211.41,1456.31
+Indore ,Jaipur ,464.72,484.32,582.41
+Indore ,Pune ,510.03,531.45,639.05
+Indore ,Kanpur ,612.37,637.87,766.97
+Indore ,Lucknow ,685.82,714.26,858.78
+Indore ,Nagpur ,374.79,390.79,470.0
+Indore ,Thane ,493.15,513.89,617.95
+Indore ,Pimpri Chinchwad ,501.65,522.73,628.57
+Indore ,Bhopal ,168.17,175.91,211.73
+Indore ,Patna ,993.17,1033.91,1242.97
+Indore ,Visakhapatnam,953.3,992.44,1193.13
+Indore ,Ludhiana ,903.45,940.6,1130.82
+Indore ,Vadodara ,279.08,291.25,350.36
+Indore ,Agra ,538.76,561.32,674.96
+Indore ,Nashik ,369.34,385.12,463.18
+Indore ,Faridabad ,646.0,672.85,809.01
+Indore ,Meerut ,717.83,747.56,898.8
+Indore ,Rajkot ,523.15,545.09,655.45
+Indore ,Vasai Virar City ,483.49,503.84,605.87
+Indore ,Varanasi ,781.76,814.04,978.71
+Indore ,Srinagar ,1262.54,1314.05,1579.68
+Indore ,Dhanbad ,1087.13,1131.62,1360.42
+Thane ,Mumbai ,16.06,17.72,21.59
+Thane ,Delhi ,1128.69,1174.85,1412.37
+Thane ,Bengaluru,846.99,881.88,1060.25
+Thane ,Hyderabad ,616.3,641.96,771.88
+Thane ,Ahmadabad ,425.69,443.73,533.62
+Thane ,Surat ,6942.23,7220.92,8679.28
+Thane ,Kolkata ,1643.9,1710.66,2056.38
+Thane ,Chennai ,1032.54,1074.85,1292.18
+Thane ,Jaipur ,903.44,940.59,1130.81
+Thane ,Pune ,119.3,125.08,150.63
+Thane ,Kanpur ,1102.63,1147.75,1379.8
+Thane ,Lucknow ,1175.36,1223.38,1470.7
+Thane ,Nagpur ,674.5,702.49,844.63
+Thane ,Indore ,493.15,513.89,617.95
+Thane ,Pimpri Chinchwad ,107.66,112.98,136.09
+Thane ,Bhopal ,643.44,670.19,805.81
+Thane ,Patna ,1437.83,1496.35,1798.79
+Thane ,Visakhapatnam,1103.15,1148.28,1380.44
+Thane ,Ludhiana ,1324.66,1378.66,1657.34
+Thane ,Vadodara ,344.34,359.12,431.93
+Thane ,Agra ,1023.11,1065.05,1280.4
+Thane ,Nashik ,124.82,130.82,157.53
+Thane ,Faridabad ,1111.42,1156.88,1390.78
+Thane ,Meerut ,1186.0,1234.45,1484.0
+Thane ,Rajkot ,411.78,429.26,516.23
+Thane ,Vasai Virar City ,29.66,31.86,38.59
+Thane ,Varanasi ,1237.27,1287.77,1548.1
+Thane ,Srinagar ,1658.93,1726.3,2075.17
+Thane ,Dhanbad ,1484.05,1544.43,1856.58
+Pimpri Chinchwad ,Mumbai ,109.29,114.68,138.13
+Pimpri Chinchwad ,Delhi ,1159.46,1206.85,1450.84
+Pimpri Chinchwad ,Bengaluru,745.44,776.27,933.31
+Pimpri Chinchwad ,Hyderabad ,514.39,535.97,644.49
+Pimpri Chinchwad ,Ahmadabad ,502.77,523.9,629.98
+Pimpri Chinchwad ,Surat ,7049.1,7332.05,8812.86
+Pimpri Chinchwad ,Kolkata ,1578.78,1642.94,1974.98
+Pimpri Chinchwad ,Chennai ,925.22,963.24,1158.04
+Pimpri Chinchwad ,Jaipur ,940.82,979.47,1177.54
+Pimpri Chinchwad ,Pune ,13.07,14.61,17.85
+Pimpri Chinchwad ,Kanpur ,1095.98,1140.83,1371.49
+Pimpri Chinchwad ,Lucknow ,1167.1,1214.8,1460.39
+Pimpri Chinchwad ,Nagpur ,619.43,645.22,775.8
+Pimpri Chinchwad ,Indore ,501.65,522.73,628.57
+Pimpri Chinchwad ,Thane ,107.66,112.98,136.09
+Pimpri Chinchwad ,Bhopal ,634.83,661.23,795.04
+Pimpri Chinchwad ,Patna ,1399.72,1456.72,1751.15
+Pimpri Chinchwad ,Visakhapatnam,1009.98,1051.39,1263.98
+Pimpri Chinchwad ,Ludhiana ,1371.32,1427.18,1715.66
+Pimpri Chinchwad ,Vadodara ,411.14,428.6,515.44
+Pimpri Chinchwad ,Agra ,1040.15,1082.76,1301.69
+Pimpri Chinchwad ,Nashik ,153.13,160.27,192.93
+Pimpri Chinchwad ,Faridabad ,1140.21,1186.83,1426.77
+Pimpri Chinchwad ,Meerut ,1213.72,1263.28,1518.66
+Pimpri Chinchwad ,Rajkot ,513.37,534.92,643.23
+Pimpri Chinchwad ,Vasai Virar City ,135.57,142.0,170.97
+Pimpri Chinchwad ,Varanasi ,1205.79,1255.03,1508.75
+Pimpri Chinchwad ,Srinagar ,1714.46,1784.05,2144.58
+Pimpri Chinchwad ,Dhanbad ,1429.75,1487.95,1788.7
+Bhopal ,Mumbai ,659.36,686.74,825.71
+Bhopal ,Delhi ,595.26,620.08,745.58
+Bhopal ,Bengaluru,1138.19,1184.73,1424.25
+Bhopal ,Hyderabad ,662.47,689.98,829.6
+Bhopal ,Ahmadabad ,494.55,515.35,619.7
+Bhopal ,Surat ,6985.54,7265.96,8733.42
+Bhopal ,Kolkata ,1126.83,1172.92,1410.05
+Bhopal ,Chennai ,1166.22,1213.88,1459.29
+Bhopal ,Jaipur ,435.42,453.85,545.79
+Bhopal ,Pune ,641.24,667.9,803.06
+Bhopal ,Kanpur ,461.38,480.85,578.24
+Bhopal ,Lucknow ,533.14,555.47,667.93
+Bhopal ,Nagpur ,290.74,303.38,364.93
+Bhopal ,Indore ,168.17,175.91,211.73
+Bhopal ,Thane ,643.44,670.19,805.81
+Bhopal ,Pimpri Chinchwad ,634.83,661.23,795.04
+Bhopal ,Patna ,825.0,859.01,1032.76
+Bhopal ,Visakhapatnam,868.23,903.97,1086.8
+Bhopal ,Ludhiana ,858.72,894.08,1074.91
+Bhopal ,Vadodara ,444.99,463.8,557.74
+Bhopal ,Agra ,438.19,456.73,549.24
+Bhopal ,Nashik ,518.67,540.43,649.85
+Bhopal ,Faridabad ,570.03,593.84,714.05
+Bhopal ,Meerut ,634.92,661.33,795.16
+Bhopal ,Rajkot ,685.75,714.19,858.7
+Bhopal ,Vasai Virar City ,637.44,663.95,798.31
+Bhopal ,Varanasi ,613.73,639.3,768.68
+Bhopal ,Srinagar ,1224.91,1274.92,1532.65
+Bhopal ,Dhanbad ,923.8,961.76,1156.26
+Patna ,Mumbai ,1452.82,1511.94,1817.53
+Patna ,Delhi ,856.15,891.41,1071.7
+Patna ,Bengaluru,1605.91,1671.16,2008.89
+Patna ,Hyderabad ,1143.57,1190.33,1430.98
+Patna ,Ahmadabad ,1304.5,1357.69,1632.13
+Patna ,Surat ,7404.08,7701.24,9256.59
+Patna ,Kolkata ,470.78,490.63,589.99
+Patna ,Chennai ,1476.9,1536.98,1847.63
+Patna ,Jaipur ,940.44,979.06,1177.05
+Patna ,Pune ,1402.03,1459.12,1754.05
+Patna ,Kanpur ,489.74,510.34,613.68
+Patna ,Lucknow ,440.14,458.76,551.69
+Patna ,Nagpur ,790.6,823.24,989.76
+Patna ,Indore ,993.17,1033.91,1242.97
+Patna ,Thane ,1437.83,1496.35,1798.79
+Patna ,Pimpri Chinchwad ,1399.72,1456.72,1751.15
+Patna ,Bhopal ,825.0,859.01,1032.76
+Patna ,Visakhapatnam,893.31,930.05,1118.14
+Patna ,Ludhiana ,1084.95,1129.36,1357.7
+Patna ,Vadodara ,1267.86,1319.58,1586.33
+Patna ,Agra ,730.6,760.83,914.76
+Patna ,Nashik ,1317.51,1371.22,1648.39
+Patna ,Faridabad ,834.7,869.1,1044.88
+Patna ,Meerut ,823.5,857.45,1030.89
+Patna ,Rajkot ,1501.95,1563.03,1878.94
+Patna ,Vasai Virar City ,1438.33,1496.87,1799.42
+Patna ,Varanasi ,214.92,224.53,270.16
+Patna ,Srinagar ,1366.64,1422.32,1709.81
+Patna ,Dhanbad ,240.58,251.21,302.23
+Visakhapatnam,Mumbai ,1111.33,1156.79,1390.67
+Visakhapatnam,Delhi ,1360.28,1415.7,1701.86
+Visakhapatnam,Bengaluru,807.22,840.52,1010.53
+Visakhapatnam,Hyderabad ,514.08,535.66,644.12
+Visakhapatnam,Ahmadabad ,1263.04,1314.57,1580.31
+Visakhapatnam,Surat ,7852.87,8167.97,9817.57
+Visakhapatnam,Kolkata ,753.74,784.9,943.69
+Visakhapatnam,Chennai ,607.74,633.06,761.18
+Visakhapatnam,Jaipur ,1276.09,1328.15,1596.62
+Visakhapatnam,Pune ,1003.55,1044.7,1255.95
+Visakhapatnam,Kanpur ,1015.11,1056.72,1270.39
+Visakhapatnam,Lucknow ,1038.31,1080.86,1299.4
+Visakhapatnam,Nagpur ,583.2,607.54,730.51
+Visakhapatnam,Indore ,953.3,992.44,1193.13
+Visakhapatnam,Thane ,1103.15,1148.28,1380.44
+Visakhapatnam,Pimpri Chinchwad ,1009.98,1051.39,1263.98
+Visakhapatnam,Bhopal ,868.23,903.97,1086.8
+Visakhapatnam,Patna ,893.31,930.05,1118.14
+Visakhapatnam,Ludhiana ,1642.65,1709.36,2054.82
+Visakhapatnam,Vadodara ,1172.08,1219.98,1466.61
+Visakhapatnam,Agra ,1179.5,1227.69,1475.89
+Visakhapatnam,Nashik ,1033.53,1075.88,1293.42
+Visakhapatnam,Faridabad ,1331.96,1386.24,1666.45
+Visakhapatnam,Meerut ,1371.29,1427.16,1715.63
+Visakhapatnam,Rajkot ,1402.0,1459.09,1754.01
+Visakhapatnam,Vasai Virar City ,1122.06,1167.95,1404.08
+Visakhapatnam,Varanasi ,843.45,878.19,1055.82
+Visakhapatnam,Srinagar ,1998.87,2079.83,2500.09
+Visakhapatnam,Dhanbad ,747.01,777.91,935.28
+Ludhiana ,Mumbai ,1339.21,1393.79,1675.52
+Ludhiana ,Delhi ,282.39,294.7,354.5
+Ludhiana ,Bengaluru,1990.4,2071.03,2489.51
+Ludhiana ,Hyderabad ,1521.18,1583.03,1902.98
+Ludhiana ,Ahmadabad ,926.62,964.7,1159.79
+Ludhiana ,Surat ,6327.03,6581.11,7910.28
+Ludhiana ,Kolkata ,1550.45,1613.48,1939.57
+Ludhiana ,Chennai ,2022.88,2104.81,2530.11
+Ludhiana ,Jaipur ,438.73,457.29,549.93
+Ludhiana ,Pune ,1382.22,1438.52,1729.28
+Ludhiana ,Kanpur ,659.42,686.8,825.78
+Ludhiana ,Lucknow ,671.84,699.72,841.31
+Ludhiana ,Nagpur ,1126.27,1172.33,1409.35
+Ludhiana ,Indore ,903.45,940.6,1130.82
+Ludhiana ,Thane ,1324.66,1378.66,1657.34
+Ludhiana ,Pimpri Chinchwad ,1371.32,1427.18,1715.66
+Ludhiana ,Bhopal ,858.72,894.08,1074.91
+Ludhiana ,Patna ,1084.95,1129.36,1357.7
+Ludhiana ,Visakhapatnam,1642.65,1709.36,2054.82
+Ludhiana ,Vadodara ,984.83,1025.23,1232.54
+Ludhiana ,Agra ,463.23,482.78,580.55
+Ludhiana ,Nashik ,1220.07,1269.88,1526.59
+Ludhiana ,Faridabad ,310.72,324.16,389.91
+Ludhiana ,Meerut ,279.42,291.61,350.79
+Ludhiana ,Rajkot ,1071.32,1115.19,1340.66
+Ludhiana ,Vasai Virar City ,1303.5,1356.65,1630.88
+Ludhiana ,Varanasi ,937.13,975.63,1172.92
+Ludhiana ,Srinagar ,366.58,382.26,459.74
+Ludhiana ,Dhanbad ,1311.46,1364.93,1640.83
+Vadodara ,Mumbai ,357.88,373.21,448.86
+Vadodara ,Delhi ,807.14,840.43,1010.43
+Vadodara ,Bengaluru,1131.87,1178.15,1416.35
+Vadodara ,Hyderabad ,777.38,809.48,973.23
+Vadodara ,Ahmadabad ,102.09,107.19,129.13
+Vadodara ,Surat ,6730.27,7000.48,8414.33
+Vadodara ,Kolkata ,1561.25,1624.71,1953.08
+Vadodara ,Chennai ,1265.61,1317.24,1583.52
+Vadodara ,Jaipur ,576.42,600.49,722.04
+Vadodara ,Pune ,423.67,441.63,531.09
+Vadodara ,Kanpur ,857.36,892.67,1073.21
+Vadodara ,Lucknow ,931.18,969.44,1165.49
+Vadodara ,Nagpur ,622.22,648.12,779.28
+Vadodara ,Indore ,279.08,291.25,350.36
+Vadodara ,Thane ,344.34,359.12,431.93
+Vadodara ,Pimpri Chinchwad ,411.14,428.6,515.44
+Vadodara ,Bhopal ,444.99,463.8,557.74
+Vadodara ,Patna ,1267.86,1319.58,1586.33
+Vadodara ,Visakhapatnam,1172.08,1219.98,1466.61
+Vadodara ,Ludhiana ,984.83,1025.23,1232.54
+Vadodara ,Agra ,727.34,757.44,910.68
+Vadodara ,Nashik ,260.57,272.01,327.22
+Vadodara ,Faridabad ,793.04,825.78,992.81
+Vadodara ,Meerut ,868.09,903.82,1086.62
+Vadodara ,Rajkot ,246.42,257.29,309.53
+Vadodara ,Vasai Virar City ,320.82,334.67,402.54
+Vadodara ,Varanasi ,1054.68,1097.88,1319.86
+Vadodara ,Srinagar ,1314.9,1368.5,1645.13
+Vadodara ,Dhanbad ,1366.18,1421.84,1709.24
+Agra ,Mumbai ,1039.03,1081.6,1300.29
+Agra ,Delhi ,180.84,189.09,227.57
+Agra ,Bengaluru,1572.51,1636.42,1967.15
+Agra ,Hyderabad ,1087.88,1132.41,1361.36
+Agra ,Ahmadabad ,715.16,744.78,895.47
+Agra ,Surat ,6751.26,7022.3,8440.56
+Agra ,Kolkata ,1163.27,1210.81,1455.6
+Agra ,Chennai ,1577.76,1641.87,1973.7
+Agra ,Jaipur ,219.26,229.04,275.59
+Agra ,Pune ,1048.71,1091.67,1312.4
+Agra ,Kanpur ,243.08,253.82,305.36
+Agra ,Lucknow ,292.67,305.39,367.35
+Agra ,Nagpur ,676.21,704.27,846.77
+Agra ,Indore ,538.76,561.32,674.96
+Agra ,Thane ,1023.11,1065.05,1280.4
+Agra ,Pimpri Chinchwad ,1040.15,1082.76,1301.69
+Agra ,Bhopal ,438.19,456.73,549.24
+Agra ,Patna ,730.6,760.83,914.76
+Agra ,Visakhapatnam,1179.5,1227.69,1475.89
+Agra ,Ludhiana ,463.23,482.78,580.55
+Agra ,Vadodara ,727.34,757.44,910.68
+Agra ,Nashik ,902.58,939.69,1129.73
+Agra ,Faridabad ,152.53,159.64,192.17
+Agra ,Meerut ,202.48,211.59,254.61
+Agra ,Rajkot ,906.58,943.85,1134.73
+Agra ,Vasai Virar City ,1009.29,1050.68,1263.13
+Agra ,Varanasi ,539.22,561.8,675.53
+Agra ,Srinagar ,823.62,857.57,1031.03
+Agra ,Dhanbad ,925.52,963.55,1158.41
+Nashik ,Mumbai ,140.79,147.43,177.5
+Nashik ,Delhi ,1014.02,1055.59,1269.03
+Nashik ,Bengaluru,877.69,913.81,1098.62
+Nashik ,Hyderabad ,574.57,598.57,719.72
+Nashik ,Ahmadabad ,356.13,371.39,446.67
+Nashik ,Surat ,6944.92,7223.71,8682.64
+Nashik ,Kolkata ,1537.91,1600.44,1923.9
+Nashik ,Chennai ,1032.16,1074.46,1291.71
+Nashik ,Jaipur ,792.19,824.89,991.75
+Nashik ,Pune ,165.05,172.67,207.83
+Nashik ,Kanpur ,977.87,1018.0,1223.85
+Nashik ,Lucknow ,1050.56,1093.59,1314.71
+Nashik ,Nagpur ,565.9,589.54,708.88
+Nashik ,Indore ,369.34,385.12,463.18
+Nashik ,Thane ,124.82,130.82,157.53
+Nashik ,Pimpri Chinchwad ,153.13,160.27,192.93
+Nashik ,Bhopal ,518.67,540.43,649.85
+Nashik ,Patna ,1317.51,1371.22,1648.39
+Nashik ,Visakhapatnam,1033.53,1075.88,1293.42
+Nashik ,Ludhiana ,1220.07,1269.88,1526.59
+Nashik ,Vadodara ,260.57,272.01,327.22
+Nashik ,Agra ,902.58,939.69,1129.73
+Nashik ,Faridabad ,995.74,1036.58,1246.19
+Nashik ,Meerut ,1069.89,1113.7,1338.87
+Nashik ,Rajkot ,400.95,418.0,502.7
+Nashik ,Vasai Virar City ,120.91,126.76,152.65
+Nashik ,Varanasi ,1115.2,1160.82,1395.51
+Nashik ,Srinagar ,1561.66,1625.14,1953.58
+Nashik ,Dhanbad ,1371.06,1426.92,1715.34
+Faridabad ,Mumbai ,1126.98,1173.06,1410.23
+Faridabad ,Delhi ,28.33,30.47,36.92
+Faridabad ,Bengaluru,1708.22,1777.56,2136.78
+Faridabad ,Hyderabad ,1228.69,1278.85,1537.37
+Faridabad ,Ahmadabad ,761.94,793.43,953.94
+Faridabad ,Surat ,6611.79,6877.26,8266.23
+Faridabad ,Kolkata ,1284.48,1336.86,1607.1
+Faridabad ,Chennai ,1723.69,1793.65,2156.12
+Faridabad ,Jaipur ,220.99,230.84,277.75
+Faridabad ,Pune ,1149.77,1196.77,1438.72
+Faridabad ,Kanpur ,367.34,383.05,460.69
+Faridabad ,Lucknow ,397.5,414.42,498.39
+Faridabad ,Nagpur ,823.14,857.08,1030.44
+Faridabad ,Indore ,646.0,672.85,809.01
+Faridabad ,Thane ,1111.42,1156.88,1390.78
+Faridabad ,Pimpri Chinchwad ,1140.21,1186.83,1426.77
+Faridabad ,Bhopal ,570.03,593.84,714.05
+Faridabad ,Patna ,834.7,869.1,1044.88
+Faridabad ,Visakhapatnam,1331.96,1386.24,1666.45
+Faridabad ,Ludhiana ,310.72,324.16,389.91
+Faridabad ,Vadodara ,793.04,825.78,992.81
+Faridabad ,Agra ,152.53,159.64,192.17
+Faridabad ,Nashik ,995.74,1036.58,1246.19
+Faridabad ,Meerut ,75.06,79.08,95.34
+Faridabad ,Rajkot ,940.56,979.19,1177.21
+Faridabad ,Vasai Virar City ,1094.58,1139.37,1369.73
+Faridabad ,Varanasi ,660.16,687.58,826.72
+Faridabad ,Srinagar ,672.02,699.91,841.53
+Faridabad ,Dhanbad ,1044.93,1087.74,1307.67
+Meerut ,Mumbai ,1201.58,1250.66,1503.49
+Meerut ,Delhi ,65.52,69.15,83.41
+Meerut ,Bengaluru,1772.25,1844.14,2216.81
+Meerut ,Hyderabad ,1289.51,1342.1,1613.39
+Meerut ,Ahmadabad ,836.25,870.72,1046.83
+Meerut ,Surat ,6601.78,6866.85,8253.72
+Meerut ,Kolkata ,1282.2,1334.5,1604.26
+Meerut ,Chennai ,1780.22,1852.44,2226.79
+Meerut ,Jaipur ,295.01,307.83,370.28
+Meerut ,Pune ,1223.16,1273.1,1530.46
+Meerut ,Kanpur ,380.13,396.35,476.67
+Meerut ,Lucknow ,396.66,413.54,497.34
+Meerut ,Nagpur ,878.66,914.82,1099.83
+Meerut ,Indore ,717.83,747.56,898.8
+Meerut ,Thane ,1186.0,1234.45,1484.0
+Meerut ,Pimpri Chinchwad ,1213.72,1263.28,1518.66
+Meerut ,Bhopal ,634.92,661.33,795.16
+Meerut ,Patna ,823.5,857.45,1030.89
+Meerut ,Visakhapatnam,1371.29,1427.16,1715.63
+Meerut ,Ludhiana ,279.42,291.61,350.79
+Meerut ,Vadodara ,868.09,903.82,1086.62
+Meerut ,Agra ,202.48,211.59,254.61
+Meerut ,Nashik ,1069.89,1113.7,1338.87
+Meerut ,Faridabad ,75.06,79.08,95.34
+Meerut ,Rajkot ,1013.41,1054.96,1268.27
+Meerut ,Vasai Virar City ,1169.33,1217.11,1463.17
+Meerut ,Varanasi ,662.57,690.08,829.72
+Meerut ,Srinagar ,627.6,653.72,786.01
+Meerut ,Dhanbad ,1042.47,1085.18,1304.6
+Rajkot ,Mumbai ,417.56,435.27,523.46
+Rajkot ,Delhi ,948.66,987.62,1187.33
+Rajkot ,Bengaluru,1258.25,1309.59,1574.32
+Rajkot ,Hyderabad ,971.99,1011.88,1216.5
+Rajkot ,Ahmadabad ,199.1,208.08,250.39
+Rajkot ,Surat ,6544.32,6807.08,8181.89
+Rajkot ,Kolkata ,1806.96,1880.25,2260.21
+Rajkot ,Chennai ,1430.87,1489.11,1790.09
+Rajkot ,Jaipur ,720.1,749.91,901.63
+Rajkot ,Pune ,526.19,548.25,659.25
+Rajkot ,Kanpur ,1069.29,1113.07,1338.12
+Rajkot ,Lucknow ,1141.95,1188.64,1428.95
+Rajkot ,Nagpur ,865.93,901.58,1083.93
+Rajkot ,Indore ,523.15,545.09,655.45
+Rajkot ,Thane ,411.78,429.26,516.23
+Rajkot ,Pimpri Chinchwad ,513.37,534.92,643.23
+Rajkot ,Bhopal ,685.75,714.19,858.7
+Rajkot ,Patna ,1501.95,1563.03,1878.94
+Rajkot ,Visakhapatnam,1402.0,1459.09,1754.01
+Rajkot ,Ludhiana ,1071.32,1115.19,1340.66
+Rajkot ,Vadodara ,246.42,257.29,309.53
+Rajkot ,Agra ,906.58,943.85,1134.73
+Rajkot ,Nashik ,400.95,418.0,502.7
+Rajkot ,Faridabad ,940.56,979.19,1177.21
+Rajkot ,Meerut ,1013.41,1054.96,1268.27
+Rajkot ,Vasai Virar City ,382.12,398.41,479.16
+Rajkot ,Varanasi ,1287.48,1339.99,1610.85
+Rajkot ,Srinagar ,1362.31,1417.81,1704.4
+Rajkot ,Dhanbad ,1609.29,1674.67,2013.12
+Vasai Virar City ,Mumbai ,38.41,40.96,49.52
+Vasai Virar City ,Delhi ,1111.36,1156.82,1390.7
+Vasai Virar City ,Bengaluru,876.58,912.65,1097.23
+Vasai Virar City ,Hyderabad ,639.47,666.06,800.85
+Vasai Virar City ,Ahmadabad ,399.43,416.42,500.8
+Vasai Virar City ,Surat ,6913.63,7191.17,8643.52
+Vasai Virar City ,Kolkata ,1652.49,1719.6,2067.12
+Vasai Virar City ,Chennai ,1060.79,1104.23,1327.5
+Vasai Virar City ,Jaipur ,884.86,921.27,1107.59
+Vasai Virar City ,Pune ,147.61,154.53,186.03
+Vasai Virar City ,Kanpur ,1094.81,1139.62,1370.02
+Vasai Virar City ,Lucknow ,1167.85,1215.58,1461.33
+Vasai Virar City ,Nagpur ,681.5,709.77,853.38
+Vasai Virar City ,Indore ,483.49,503.84,605.87
+Vasai Virar City ,Thane ,29.66,31.86,38.59
+Vasai Virar City ,Pimpri Chinchwad ,135.57,142.0,170.97
+Vasai Virar City ,Bhopal ,637.44,663.95,798.31
+Vasai Virar City ,Patna ,1438.33,1496.87,1799.42
+Vasai Virar City ,Visakhapatnam,1122.06,1167.95,1404.08
+Vasai Virar City ,Ludhiana ,1303.5,1356.65,1630.88
+Vasai Virar City ,Vadodara ,320.82,334.67,402.54
+Vasai Virar City ,Agra ,1009.29,1050.68,1263.13
+Vasai Virar City ,Nashik ,120.91,126.76,152.65
+Vasai Virar City ,Faridabad ,1094.58,1139.37,1369.73
+Vasai Virar City ,Meerut ,1169.33,1217.11,1463.17
+Vasai Virar City ,Rajkot ,382.12,398.41,479.16
+Vasai Virar City ,Varanasi ,1236.09,1286.55,1546.62
+Vasai Virar City ,Srinagar ,1635.71,1702.15,2046.15
+Vasai Virar City ,Dhanbad ,1489.35,1549.94,1863.2
+Varanasi ,Mumbai ,1252.58,1303.69,1567.23
+Varanasi ,Delhi ,684.43,712.82,857.05
+Varanasi ,Bengaluru,1481.46,1541.72,1853.33
+Varanasi ,Hyderabad ,1000.17,1041.18,1251.72
+Varanasi ,Ahmadabad ,1089.8,1134.4,1363.75
+Varanasi ,Surat ,7263.81,7555.35,9081.25
+Varanasi ,Kolkata ,625.12,651.13,782.9
+Varanasi ,Chennai ,1386.32,1442.79,1734.41
+Varanasi ,Jaipur ,739.82,770.42,926.28
+Varanasi ,Pune ,1209.03,1258.4,1512.8
+Varanasi ,Kanpur ,296.59,309.47,372.25
+Varanasi ,Lucknow ,265.92,277.57,333.91
+Varanasi ,Nagpur ,613.33,638.87,768.17
+Varanasi ,Indore ,781.76,814.04,978.71
+Varanasi ,Thane ,1237.27,1287.77,1548.1
+Varanasi ,Pimpri Chinchwad ,1205.79,1255.03,1508.75
+Varanasi ,Bhopal ,613.73,639.3,768.68
+Varanasi ,Patna ,214.92,224.53,270.16
+Varanasi ,Visakhapatnam,843.45,878.19,1055.82
+Varanasi ,Ludhiana ,937.13,975.63,1172.92
+Varanasi ,Vadodara ,1054.68,1097.88,1319.86
+Varanasi ,Agra ,539.22,561.8,675.53
+Varanasi ,Nashik ,1115.2,1160.82,1395.51
+Varanasi ,Faridabad ,660.16,687.58,826.72
+Varanasi ,Meerut ,662.57,690.08,829.72
+Varanasi ,Rajkot ,1287.48,1339.99,1610.85
+Varanasi ,Vasai Virar City ,1236.09,1286.55,1546.62
+Varanasi ,Srinagar ,1250.38,1301.4,1564.48
+Varanasi ,Dhanbad ,386.47,402.94,484.6
+Srinagar ,Mumbai ,1672.71,1740.62,2092.39
+Srinagar ,Delhi ,644.02,670.79,806.54
+Srinagar ,Bengaluru,2353.56,2448.71,2943.46
+Srinagar ,Hyderabad ,1887.26,1963.76,2360.58
+Srinagar ,Ahmadabad ,1244.38,1295.16,1556.98
+Srinagar ,Surat ,6042.15,6284.84,7554.19
+Srinagar ,Kolkata ,1837.39,1911.89,2298.24
+Srinagar ,Chennai ,2389.46,2486.05,2988.33
+Srinagar ,Jaipur ,799.44,832.43,1000.81
+Srinagar ,Pune ,1725.93,1795.97,2158.91
+Srinagar ,Kanpur ,995.88,1036.72,1246.35
+Srinagar ,Lucknow ,993.69,1034.45,1243.62
+Srinagar ,Nagpur ,1492.32,1553.03,1866.91
+Srinagar ,Indore ,1262.54,1314.05,1579.68
+Srinagar ,Thane ,1658.93,1726.3,2075.17
+Srinagar ,Pimpri Chinchwad ,1714.46,1784.05,2144.58
+Srinagar ,Bhopal ,1224.91,1274.92,1532.65
+Srinagar ,Patna ,1366.64,1422.32,1709.81
+Srinagar ,Visakhapatnam,1998.87,2079.83,2500.09
+Srinagar ,Ludhiana ,366.58,382.26,459.74
+Srinagar ,Vadodara ,1314.9,1368.5,1645.13
+Srinagar ,Agra ,823.62,857.57,1031.03
+Srinagar ,Nashik ,1561.66,1625.14,1953.58
+Srinagar ,Faridabad ,672.02,699.91,841.53
+Srinagar ,Meerut ,627.6,653.72,786.01
+Srinagar ,Rajkot ,1362.31,1417.81,1704.4
+Srinagar ,Vasai Virar City ,1635.71,1702.15,2046.15
+Srinagar ,Varanasi ,1250.38,1301.4,1564.48
+Srinagar ,Dhanbad ,1603.73,1668.88,2006.16
+Dhanbad ,Mumbai ,1497.92,1558.84,1873.91
+Dhanbad ,Delhi ,1068.48,1112.23,1337.11
+Dhanbad ,Bengaluru,1517.6,1579.31,1898.51
+Dhanbad ,Hyderabad ,1092.96,1137.69,1367.71
+Dhanbad ,Ahmadabad ,1417.79,1475.51,1773.74
+Dhanbad ,Surat ,7636.5,7942.95,9547.11
+Dhanbad ,Kolkata ,239.78,250.39,301.24
+Dhanbad ,Chennai ,1351.9,1406.99,1691.39
+Dhanbad ,Jaipur ,1122.23,1168.13,1404.3
+Dhanbad ,Pune ,1429.85,1488.06,1788.82
+Dhanbad ,Kanpur ,683.06,711.4,855.34
+Dhanbad ,Lucknow ,647.87,674.8,811.35
+Dhanbad ,Nagpur ,810.91,844.36,1015.15
+Dhanbad ,Indore ,1087.13,1131.62,1360.42
+Dhanbad ,Thane ,1484.05,1544.43,1856.58
+Dhanbad ,Pimpri Chinchwad ,1429.75,1487.95,1788.7
+Dhanbad ,Bhopal ,923.8,961.76,1156.26
+Dhanbad ,Patna ,240.58,251.21,302.23
+Dhanbad ,Visakhapatnam,747.01,777.91,935.28
+Dhanbad ,Ludhiana ,1311.46,1364.93,1640.83
+Dhanbad ,Vadodara ,1366.18,1421.84,1709.24
+Dhanbad ,Agra ,925.52,963.55,1158.41
+Dhanbad ,Nashik ,1371.06,1426.92,1715.34
+Dhanbad ,Faridabad ,1044.93,1087.74,1307.67
+Dhanbad ,Meerut ,1042.47,1085.18,1304.6
+Dhanbad ,Rajkot ,1609.29,1674.67,2013.12
+Dhanbad ,Vasai Virar City ,1489.35,1549.94,1863.2
+Dhanbad ,Varanasi ,386.47,402.94,484.6
+Dhanbad ,Srinagar ,1603.73,1668.88,2006.16

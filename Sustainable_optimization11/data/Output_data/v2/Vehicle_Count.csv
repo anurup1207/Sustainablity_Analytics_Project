@@ -1,0 +1,11 @@
+Source,Destination,4WD_PICK_UP,CARGO_PLANE,GOODS_RAIL,MIXED_RAIL,Total Vehicles in Use
+Bangalore,Chennai,1.0,0.0,0.0,0.0,1.0
+Bangalore,Kolkata,0.0,0.0,0.0,2.0,2.0
+Bangalore,Mumbai,0.0,1.0,0.0,0.0,1.0
+Chennai,Bangalore,0.0,0.0,1.0,4.0,5.0
+Chennai,Delhi,0.0,0.0,1.0,0.0,1.0
+Chennai,Kolkata,0.0,0.0,2.0,0.0,2.0
+Chennai,Mumbai,0.0,0.0,1.0,0.0,1.0
+Delhi,Chennai,0.0,0.0,1.0,0.0,1.0
+Delhi,Kolkata,0.0,0.0,0.0,3.0,3.0
+Delhi,Mumbai,0.0,0.0,1.0,0.0,1.0

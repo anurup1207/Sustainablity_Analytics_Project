@@ -1,0 +1,13 @@
+Source,Destination,Transportation mode,Vehicle type,Vehicle number,Number of Trips,Total Co2 Emission,Total Time,Cost To Journey
+Delhi,Chennai,Road,4WD_PICK_UP,3,1,681511.53,52.139761904761905,2627.8439999999996
+Delhi,Kolkata,Rail,GOODS_RAIL,3,1,265668.08,27.2296,5445.92
+Delhi,Kolkata,Rail,GOODS_RAIL,4,1,265668.08,27.2296,5445.92
+Delhi,Mumbai,Rail,MIXED_RAIL,0,1,254935.58,13.225333333333333,6546.54
+Delhi,Mumbai,Rail,MIXED_RAIL,1,1,254935.58,13.225333333333333,6546.54
+
+
+
+Source,Destination,Quantity Constraint,Time Constraint,Cost Constraint,Total Vehicles,Total Co2 Emission,Total Time,Cost To Journey
+Delhi,Mumbai,9000,300,50000,2,509871.16,13.225333333333333,13093.08
+Delhi,Kolkata,13100,100,30000,2,531336.16,27.2296,10891.84
+Delhi,Chennai,13,1000,2700,1,681511.53,52.139761904761905,2627.8439999999996

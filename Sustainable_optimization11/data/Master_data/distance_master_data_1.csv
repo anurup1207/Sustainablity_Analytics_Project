@@ -1,0 +1,21 @@
+Source,Destination,Air Distance (km),Rail Distance (km),Road Distance (km)
+Mumbai,Kolkata,1655.79,1723.03,2071.24
+Mumbai,Delhi,1143.52,1190.28,1430.91
+Mumbai,Bangalore,842.28,876.98,1054.36
+Mumbai,Chennai,1031.41,1073.68,1290.77
+Kolkata,Mumbai,1655.79,1723.03,2071.24
+Kolkata,Delhi,1308.14,1361.48,1636.69
+Kolkata,Bangalore,1558.47,1621.81,1949.59
+Kolkata,Chennai,1355.3,1410.52,1695.63
+Delhi,Mumbai,1143.52,1190.28,1430.91
+Delhi,Kolkata,1308.14,1361.48,1636.69
+Delhi,Bangalore,1733.37,1803.71,2168.22
+Delhi,Chennai,1750.69,1821.72,2189.87
+Bangalore,Mumbai,842.28,876.98,1054.36
+Bangalore,Kolkata,1558.47,1621.81,1949.59
+Bangalore,Delhi,1733.37,1803.71,2168.22
+Bangalore,Chennai,290.95,303.61,365.2
+Chennai,Mumbai,1031.41,1073.68,1290.77
+Chennai,Kolkata,1355.3,1410.52,1695.63
+Chennai,Delhi,1750.69,1821.72,2189.87
+Chennai,Bangalore,290.95,303.61,365.2

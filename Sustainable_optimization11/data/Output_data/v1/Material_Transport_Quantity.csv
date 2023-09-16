@@ -1,0 +1,11 @@
+Source,Destination,CARGO_PLANE,GOODS_RAIL,HGV_(Large),MIXED_RAIL,Total Quantity Transported
+Bangalore,Chennai,0.0,5000.0,0.0,0.0,5000.0
+Bangalore,Kolkata,100.0,5000.0,36.0,8000.0,13136.0
+Bangalore,Mumbai,0.0,5000.0,0.0,0.0,5000.0
+Chennai,Bangalore,0.0,0.0,0.0,8000.0,8000.0
+Chennai,Delhi,0.0,5000.0,0.0,0.0,5000.0
+Chennai,Kolkata,0.0,0.0,0.0,8000.0,8000.0
+Chennai,Mumbai,0.0,5000.0,0.0,0.0,5000.0
+Delhi,Chennai,0.0,5000.0,0.0,0.0,5000.0
+Delhi,Kolkata,0.0,5000.0,0.0,8000.0,13000.0
+Delhi,Mumbai,0.0,5000.0,0.0,0.0,5000.0

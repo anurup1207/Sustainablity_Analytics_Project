@@ -1,0 +1,11 @@
+﻿From,To,Quantity (MT)
+Delhi,Mumbai,1000
+Delhi,Kolkata,10000
+Delhi,Chennai,80
+Bangalore,Mumbai,100
+Bangalore,Kolkata,13130
+Bangalore,Chennai,500
+Chennai,Delhi,750
+Chennai,Kolkata,8000
+Chennai,Mumbai,10
+Chennai,Bangalore,5600

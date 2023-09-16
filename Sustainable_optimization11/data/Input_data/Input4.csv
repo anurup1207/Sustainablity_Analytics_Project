@@ -1,0 +1,11 @@
+﻿From,To,Quantity (MT),Time (hrs),Cost
+Delhi,Mumbai,3000,350,426000
+Delhi,Kolkata,4000,354.5,450450
+Delhi,Chennai,13,348,125600
+Bangalore,Mumbai,100,320,124400
+Bangalore,Kolkata,4500,253.2,439320
+Bangalore,Chennai,14,370,115449
+Chennai,Delhi,1752,355.6,128000
+Chennai,Kolkata,8450,364,438500
+Chennai,Mumbai,15,357,116600
+Chennai,Bangalore,38,354,127500
